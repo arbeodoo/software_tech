@@ -16,8 +16,8 @@ My first repository
 <img width="800" height="173" alt="image" src="https://github.com/user-attachments/assets/f3d4f398-e366-40d5-9ee8-ca5977b2bddc" />
 
 
-4. Mit Zeitreisen experimentiert, in dem ich den Dateinamen "fäschligerweisen" in den "Quatsch-Namen" verändert habe und dann mit `git revert` in die Version von 
-- Beweis: Commit-ID `abc1234`.
+4. Mit Zeitreisen experimentiert, in dem ich den Dateinamen "fäschligerweisen" in den "Quatsch-Namen" verändert habe und dann mit `git revert` in den Stand von 
+Commit ID e0a0e6f43d371472f666eef3d1a15bf41f7975c8 zurückgebracht. 
 
 5. Branch `feature-fahrenheit` erstellt, bearbeitet und in `main` gemerget.
 

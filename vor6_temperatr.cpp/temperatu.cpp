@@ -6,6 +6,7 @@ void fürCaseEins(string [12],float [12]);
 void fürCaseZwei(float [12]);
 void fürCaseDrei(float[12], string[12]);
 void fürCaseVier();
+float zuFahrenheit(float celsius);
 
 
 int main(){
@@ -76,7 +77,7 @@ void fürCaseEins (string M[], float temp[])
     for (i=0; i<12; i++)
       if (eingabe_monat==M[i])
       {
-        cout<<"Durchschnittstemperatur: "<<temp[i]<<endl;
+        cout << "Durchschnittstemperatur: " << temp[i] << "°C (" << zuFahrenheit(temp[i]) << "°F)" << endl;
       }
 }
 
@@ -155,4 +156,6 @@ void fürCaseDrei(float temp[], string monat[])
  }
     
 
-
+float zuFahrenheit(float celsius) {
+    return (celsius * 1.8) + 32;
+}

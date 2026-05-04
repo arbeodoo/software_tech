@@ -21,10 +21,13 @@ My first repository
 <img width="1037" height="952" alt="image" src="https://github.com/user-attachments/assets/a0b0d90e-3ed5-4368-82c5-6c966790c9f1" />
 
 
+Clone das Repo:
+<img width="802" height="249" alt="image" src="https://github.com/user-attachments/assets/2e8ae116-f67e-4fce-a6fa-6e2a04df0f80" />
+
 
 4. Mit Zeitreisen experimentiert, in dem ich den Dateinamen "fäschligerweisen" in den "Quatsch-Namen" verändert habe und dann mit `git revert` in den Stand von 
 Commit ID e0a0e6f43d371472f666eef3d1a15bf41f7975c8 zurückgebracht. 
 
-5. Branch `feature-fahrenheit` erstellt, bearbeitet und in `main` gemerget.
+5. Branch `feature-fahrenheit` erstellt, bearbeitet und mit der `main` gemerget.
 
 6. Pull-Request für das Rezept für "Scharlotka"-Apfelkuchen: https://github.com/arbeodoo/education-software/pull/1/commits 
